@@ -32,6 +32,9 @@ Percentage increase in revenue or decrease in company costs after predictions ar
 **5. File Uploaded**
 
 Stage 1 --> Exploratory Data Analysis
+
 Stage 2 --> Data Preprocessing
+
 Stage 3 --> Modeling and Evaluation
+
 Stage 4 --> Finalization and Presentation
